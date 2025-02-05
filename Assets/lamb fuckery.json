@@ -1,0 +1,211 @@
+{
+    "$schema": "https://raw.githubusercontent.com/KBMackenzie/COTL_JSONLoader/master/schema/lamb-skin.json",
+    "name": "lamb fuckery",
+    "imagePath": "Recolor Base.png",
+    "overrides": [
+        {
+            "name": "images/CrownEyeBiga",
+            "rect": "138, 129, 146, 90",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeBig2a",
+            "rect": "138, 129, 146, 90",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeBigb",
+            "rect": "138, 129, 146, 90",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeBig2b",
+            "rect": "138, 129, 146, 90",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "CrownEyeSina",
+            "rect": "187, 99, 50, 28",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "CrownEyeSinb",
+            "rect": "187, 99, 50, 28",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShuta",
+            "rect": "187, 45, 50, 26",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShut2a",
+            "rect": "187, 45, 50, 26",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShut3a",
+            "rect": "187, 45, 50, 26",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShutb",
+            "rect": "187, 17, 50, 29",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShut2b",
+            "rect": "187, 17, 50, 29",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "images/CrownEyeShut3b",
+            "rect": "187, 17, 50, 29",
+            "scale": "1.5, 1.5",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoLeft",
+            "rect": "142, 227, 64, 102",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoRight",
+            "rect": "220, 227, 64, 102",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "CROWN_EYEa",
+            "rect": "187, 67, 50, 33",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "CROWN_EYEb",
+            "rect": "187, 67, 50, 33",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoRight2",
+            "rect": "216, 328, 70, 102",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoLeft2",
+            "rect": "137, 328, 70, 102",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoShoulder_Right",
+            "rect": "287, 348, 85, 95",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "PonchoShoulder",
+            "rect": "287, 348, 85, 95",
+            "scale": "1, 1",
+            "offset": "0, 0"
+        }
+    ],
+    "colors": [
+        [
+            {
+                "name": "images/CrownEyeBiga",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeBig2a",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeBigb",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeBig2b",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "CrownEyeSina",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "CrownEyeSinb",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShuta",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShut2a",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShut3a",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShutb",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShut2b",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "images/CrownEyeShut3b",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoLeft",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoRight",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "CROWN_EYEa",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "CROWN_EYEb",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoRight2",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoLeft2",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoShoulder_Right",
+                "hex": "#ffffff"
+            },
+            {
+                "name": "PonchoShoulder",
+                "hex": "#ffffff"
+            }
+        ]
+    ]
+}
