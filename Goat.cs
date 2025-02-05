@@ -1,0 +1,1 @@
+PlayerType.GOAT
